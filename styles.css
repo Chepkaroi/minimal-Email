@@ -99,4 +99,9 @@ button:hover{
     input, button{
         border-radius: 10px;
     }
+
+    .btn{
+        display: flex;
+        justify-content: center;
+    }
 }
